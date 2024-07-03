@@ -1,4 +1,4 @@
-function addTwo (num : number) : number{
+function addTwo (num : number) : number {
     // num.toUpperCase()
     return num +2
     // return "hello"

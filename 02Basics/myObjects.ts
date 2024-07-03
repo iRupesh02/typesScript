@@ -6,7 +6,7 @@ const user = {
 
 function createUser({ name: string, isPaid: boolean }) {}
 const newUser = { name: "Rupesh", isPaid: true, email: "r@R.com" };
-// createUser({name : "Rupesh", isPaid : true , email:"r@R.com"}) give msg javascript behaves diiferent way
+//  createUser({name : "Rupesh", isPaid : true , email:"r@R.com"}) give msg javascript behaves diiferent way
 createUser(newUser); // in this case javascript behaves in different ways
 
 function createCource(): { name: string; price: number } {

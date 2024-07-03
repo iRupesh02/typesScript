@@ -15,8 +15,8 @@ let isLoggedin : boolean = true
 
 
 // any
-//  let hero;
- let hero : string;
+ let hero;
+//  let hero : string;
 function getting(){
     return "harryPotter";
 }
